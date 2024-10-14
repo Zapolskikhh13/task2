@@ -1,0 +1,280 @@
+body{
+    margin: 0 auto;
+    width: 1512px;
+}
+.header-text{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 140px;
+    margin-top: 112px;
+    margin-left: 289px;
+    margin-right: 290px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-align: center;
+    /* color: #fff; */
+}
+.header-text-bottom{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    font-weight: 500;
+    font-size: 36px;
+    width: 580px;
+    height: 55px;
+    letter-spacing: 0.03em;
+    margin-left: 466px;
+    margin-right: 466px;
+    /* color: #f5f5f5; */
+}
+.title-iphones{
+    width: 1299px;
+    height: 743px;
+    margin: 62px 107px 20px 106px;
+}
+h1{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 765px;
+    height: 166px;
+    margin-left: 373px;
+    margin-right: 374px;
+    color: #262525;
+}
+.iphone-about{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 157%;
+    text-align: center;
+    width: 967px;
+    height: 210px;
+    margin-left: 272px;
+    margin-right: 273px;
+    color: #262525;
+}
+.choose{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 157%;
+    text-align: center;
+    width: 241px;
+    height: 36px;
+    margin: 14px 636px 6px 635px;
+    display: inline-block;
+    text-decoration: none;
+    color: #262525;
+}
+.down{
+    width: 30px;
+    height: 30px;
+    margin-left: 741px;
+    margin-right: 741px;
+}
+.iphone-body{
+    width: 1261px;
+    height: 624px;
+    margin-left: 116px;
+    margin-right: 165px;
+    background-image: url(../resources/iPhone_backgroung.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.head-iphone-text{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 125%;
+    width: 811px;
+    height: 166px;
+    padding: 104px 216px 54px 234px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+}
+h3{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 157%;
+    text-align: center;
+    width: 874px;
+    height: 43px;
+    padding-left: 194px;
+    padding-right: 193px;
+    color: #f5f5f5;
+}
+.iphone-text{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 125%;
+    width: 941px;
+    height: 88px;
+    padding: 30px 156px 150px 164px;
+    text-align: center;
+    color: #7a7a7a;
+}
+h4{
+    font-family: "Raleway", sans-serif;
+    margin-top: 181px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 79%;
+    text-align: center;
+    color: #292929;
+}
+.iphone-silver{
+    margin-top: 57px;
+    margin-left: 161px;
+    width: 384px;
+    display: inline-block;
+}
+.iphone-silver-image{
+    display: block;
+    width: 384px;
+    height: 418px;
+}
+.iphone-silver-text-wrapper{
+    background-color: #1B1B1B;
+    border-radius: 0px 0px 32px 32px;
+    padding: 24px;
+}
+.iphone-silver-title{
+    font-family: "Raleway", sans-serif;
+    margin-bottom: 5px;
+    font-weight: 700;
+    font-size: 28px;
+    color: #FFFFFF;
+}
+.iphone-silver-color{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+.iphone-silver-price{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 16px;
+    text-transform: capitalize;
+    color: #f1f8ff;
+}
+.iphone-silver-cart-btn{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 30px;
+    border: none;
+    width: 336px;
+    height: 66px;
+    text-align: center;
+    background-color: #FFFFFF;
+    color: #000;
+}
+.iphone-blue{
+    margin-top: 57px;
+    margin-left: 24px;
+    width: 384px;
+    height: 655px;
+    display: inline-block;
+
+}
+.iphone-blue-image{
+    width: 384px;
+    height: 418px;
+}
+.iphone-blue-text-wrapper{
+    background-color: #1b1b1b;;
+    border-radius: 0 0 32px 32px;
+    padding: 24px;
+}
+.iphone-blue-title{
+    padding-bottom: 5px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #FFFFFF;
+}
+.iphone-blue-color{
+    padding-bottom: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+.iphone-blue-price{
+    padding-bottom: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: #f1f8ff;
+}
+.iphone-blue-cart-btn{
+    font-family: "Montserrat", sans-serif;
+    border-radius: 30px;
+    width: 336px;
+    height: 66px;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color: #000;
+}
+.iphone-green{
+    margin-top: 57px;
+    margin-left: 24px;
+    display: inline-block;
+    width: 384px;
+    height: 655px;
+}
+.iphone-green-image{
+    width: 384px;
+    height: 418px;
+}
+.iphone-green-text-wrapper{
+    padding: 24px;
+    border-radius: 0 0 32px 32px;
+    background-color: #1b1b1b;
+}
+.iphone-green-title{
+    margin-bottom: 5px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #FFFFFF;
+}
+.iphone-green-color{
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+.iphone-green-price{
+    margin-bottom: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: #f1f8ff;
+}
+.iphone-green-cart-btn{
+    border-radius: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    width: 336px;
+    height: 66px;
+    color: #000;
+    background-color: #FFFFFF;
+}
